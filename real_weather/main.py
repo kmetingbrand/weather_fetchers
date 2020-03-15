@@ -1,3 +1,5 @@
+####### Do not dare to steal my beauty, Krista. <3 ########
+
 import json
 import requests
 
